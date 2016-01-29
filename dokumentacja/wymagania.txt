@@ -1,0 +1,73 @@
+﻿Wymagania Funkcjonalne : 
+* system logowania i rejestracji 
+* możliwość usunięcia konta z serwisu
+* przeglądarka zdjęć
+* możliwość wymiany wiadomości pomiędzy użytkownikami 
+* możliwość wysyłania plików pomiędzy użytkownikami
+* użytkownik może edytować swój profil 
+* użytkownik może dodawać i edytować swoje posty
+* użytkownik może dodawać innych użytkowników jako znajomych
+* użytkownik może dodawać zdjęcia 
+* użytkownik może wyszukiwać i przeglądać profile innych użytkowników
+* możliwość przypomnienia hasła logowania
+* Administrator portalu może w pełni modyfiokować konto innego użytkownika
+
+
+
+
+Wymagania Nie funkcjonalne:
+* portal jest napisany w języku PHP 5.3
+* Baza danych użytkowników (MySQL)
+* portal działa na każdej przeglądarce internetowej
+* Kolor strony - zielony
+* Czcionka - Times New Roman
+
+
+
+
+
+
+
+
+
+
+
+
+User Story
+
+
+Jako gość portalu społecznościowego chcę mieć możliwość założenia konta w serwisie
+żebym mógł zalogować się do portalu.
+
+
+Jako gość portalu społecznościowego chcę mieć możliwość przypomnienia hasła użytkownika
+aby móc się zalogować so portalu w razie zapomnienia 
+
+
+Jako zalogowany użytkownik portalu społecznościowego chcę mieć możliwość 
+wysyłania wiadomości prywatnych do wybranego użytkownika żeby inni u
+żytkownicy nie widzieli o czym rozmawiam.
+
+
+Jako zalogowany użytkownik portalu społecznościowego chcę mieć możliwość przesyłania
+plików do wybranego użytkownika żebym mógł szybko przekazać pliki z mojego komputera innemu użytkownikowi.
+
+
+Jako zalogowany użytkownik portalu społecznościowego chcę mieć możliwość edycji profilu żebym mógł
+ustawić dane personalne, modyfikacji dodanych zdjęć i móc usunąć konto
+
+
+Jako zalogowany użytkownik portalu społecznościowego chcę mieć możliwość dodawania i modyfikacji swoich postów
+żebym mógł szybko udostępnić wszystkim krótki tekst i móc poprawić ewentualne błędy
+
+
+Jako zalogowany użytkownik portalu społecznościowego chcę mieć możliwość wyszukiwania profili innych użytkowników
+żebym mógł przeglądać ich profil i móc dodać ich do znajomych
+
+
+Jako zalogowany użytkownik portalu społecznościowego chcę mieć możliwość dodawania zdjęć do swojego profilu
+żebym mógł tworzyć album online
+
+
+Jako Administrator portalu społecznościowego chcę mieć możliwość edycji profilu dowolnego użytkownika aby móc
+usuwać niepoprawne posty lub zdjęcia
